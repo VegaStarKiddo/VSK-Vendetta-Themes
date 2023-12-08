@@ -7,7 +7,7 @@
             "id": "520302616836571166"
     }
   ],
-  "spec": 2,
+  ""spec": 2,
   "semanticColors": {
         "HEADER_PRIMARY": [
             "#FFFFFF"
@@ -37,7 +37,7 @@
             "#BA774A"
         ],
         "BACKGROUND_SECONDARY": [
-            "#eb9d5e"
+            "#EB9D5E"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#c27434"
@@ -46,38 +46,38 @@
             "#B58B69"
         ],
         "BACKGROUND_ACCENT": [
-            "#eb9d5e"
+            "#EB9D5E"
         ],
         "BACKGROUND_FLOATING": [
-            "#e0bfa4"
+            "#E0BFA4"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#B58B69"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#b07b4f"
+            "#B07B4F"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#e0bfa4"
+            "#E0BFA4"
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
-            "#c7a991"
+            "#C7A991"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#c7a991"
+            "#C7A991"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#bf926d"
+            "#BF926D"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#6e513a"
+            "#6E513A"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "f79b4f"
+            "F79B4F"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#6b482b"
+            "#6B482B"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
@@ -98,45 +98,44 @@
             "#FFEDE0"
         ],
         "TEXT_DANGER": [
-            "#9c5114"
+            "#9C5114"
         ],
         "KEYBOARD": [
-            "#c79d7b"
+            "#C79D7B"
         ],
         "CHANNEL_ICON": [
-            "#c79d7b"
+            "#C79D7B"
         ],
         "CHAT_BACKGROUND": [
-            "#8c7664"
+            "#8C7664"
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#4d2b0f",
-        "PRIMARY_100": "#eb9d5e",
-        "PRIMARY_200": "#4a301b",
+        "PRIMARY_500": "#4D2B0F",
+        "PRIMARY_100": "#EB9D5E",
+        "PRIMARY_200": "#4A301B",
         "PRIMARY_300": "#FACEAA",
         "PRIMARY_360": "#FACEAA",
         "PRIMARY_400": "#916540",
-        "PRIMARY_600": "#422e1d",
-        "PRIMARY_630": "#422e1d",
-        "PRIMARY_660": "#78563b",
-        "PRIMARY_700": "#c28e63",
-        "PRIMARY_800": "#c28e63",
-        "BRAND_260": "#e6b893",
-        "BRAND_360": "#78563b",
+        "PRIMARY_600": "#422E1D",
+        "PRIMARY_630": "#422E1D",
+        "PRIMARY_660": "#78563B",
+        "PRIMARY_700": "#C28E63",
+        "PRIMARY_800": "#C28E63",
+        "BRAND_260": "#E6B893",
+        "BRAND_360": "#78563B",
         "BRAND_500": "#613816",
-        "BRAND_560": "#78563b",
+        "BRAND_560": "#78563B",
         "YELLOW_300": "#613816",
-        "GREEN_600": "#cf8c55",
-        "RED_400": "#8f6442",
-        "WHITE_500": "#cf8c55",
-        "GREEN_360": "#e67a22"
+        "GREEN_600": "#CF8C55",
+        "RED_400": "#8F6442",
+        "WHITE_500": "#CF8C55",
+        "GREEN_360": "#E67A22"
     },
 },
   "background": {
     "blur": 0.3,
     "url": "https://wallpapers-clan.com/wp-content/uploads/2023/11/cozy-interior-brown-aesthetic-wallpaper-scaled.jpg",
-    "alpha": 0.0
-  }
+ }
     "spec": 2
-}
+  }
