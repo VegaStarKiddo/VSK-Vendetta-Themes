@@ -96,12 +96,12 @@
             "#c94d7a"
         ],
         "HEADER_PRIMARY": [
-            "#f9ebf0",
-            "#f9ebf0"
-        ],
-        "HEADER_SECONDARY": [
             "#ffffff",
             "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#f9ebf0",
+            "#f9ebf0"
         ],
         "HOME_BACKGROUND": [
             "#ffc5a6",
@@ -164,8 +164,8 @@
             "#4d2d38"
         ],
         "TEXT_NORMAL": [
-            "#000000",
-            "#000000"
+            "#ca4e7a",
+            "#ca4e7a"
         ]
     },
     "rawColors": {
