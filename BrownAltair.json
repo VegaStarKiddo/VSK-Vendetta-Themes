@@ -5,7 +5,7 @@
         {
             "name": "vegastarkiddo",
             "id": "520302616836571166"
-    }
+      }
   ],
   "spec": 2,
   "semanticColors": {
@@ -40,7 +40,7 @@
             "#EB9D5E"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#c27434"
+            "#C27434"
         ],
         "BACKGROUND_TERTIARY": [
             "#B58B69"
@@ -136,6 +136,7 @@
   "background": {
     "blur": 0.3,
     "url": "https://wallpapers-clan.com/wp-content/uploads/2023/11/cozy-interior-brown-aesthetic-wallpaper-scaled.jpg",
- }
-    "spec": 2
+ };
+  
+"spec": 2
   }
